@@ -1,7 +1,7 @@
-#include "day1.h"
+#include "day2.h"
 
 
 int main() {
-    std::cout << Day1::run() << '\n';
+    std::cout << Day2::run() << '\n';
     return 0;
 }
